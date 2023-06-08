@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanthisha23&label=Profile%20views&color=0e75b6&style=flat" alt="kanthisha23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanthisha23" alt="kanthisha23" /></a> </p>
+- 🔭 I’m currently working on **my Portfolio**
+
+- 🌱 I’m currently exploring **Frontend and Backend development**
 
 - 📫 How to reach me **kanthisha1@gmail.com**
 
