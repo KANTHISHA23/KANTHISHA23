@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/IshaKanth88908)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isha-kanth-99433925a)
 
 <h3 align="left">Languages and Tools:</h3>
